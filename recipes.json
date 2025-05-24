@@ -1,10 +1,22 @@
-[
-  {
-    "title": "Nasi Goreng",
-    "description": "Masak nasi, tumis bawang, tambahkan nasi dan kecap manis."
-  },
-  {
-    "title": "Soto Ayam",
-    "description": "Rebus ayam dengan bumbu soto, tambahkan bihun dan telur rebus."
-  }
-]
+{
+  "en": [
+    {
+      "title": "Fried Rice",
+      "description": "A simple and delicious fried rice recipe."
+    },
+    {
+      "title": "Chicken Soup",
+      "description": "Warm chicken soup for cold days."
+    }
+  ],
+  "id": [
+    {
+      "title": "Nasi Goreng",
+      "description": "Resep nasi goreng yang sederhana dan lezat."
+    },
+    {
+      "title": "Sup Ayam",
+      "description": "Sup ayam hangat untuk hari yang dingin."
+    }
+  ]
+}
