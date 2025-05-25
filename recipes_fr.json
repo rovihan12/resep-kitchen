@@ -1,1 +1,13 @@
+[
+  {
+    "title": "Riz Frit",
+    "ingredients": "Riz, Oeuf, Sauce Soja",
+    "instructions": "Faire revenir tous les ingrédients ensemble."
+  },
+  {
+    "title": "Soupe de Nouilles",
+    "ingredients": "Nouilles, Bouillon de Poulet, Légumes",
+    "instructions": "Faire bouillir le bouillon et ajouter les nouilles et légumes."
+  }
+]
 
