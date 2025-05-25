@@ -2,21 +2,20 @@
   "en": [
     {
       "title": "Fried Rice",
-      "description": "A simple and delicious fried rice recipe."
+      "description": "Simple and delicious fried rice recipe.",
+      "imageUrl": "https://example.com/images/fried_rice.jpg"
     },
     {
       "title": "Chicken Soup",
-      "description": "Warm chicken soup for cold days."
+      "description": "Comforting chicken soup for rainy days.",
+      "imageUrl": "https://example.com/images/chicken_soup.jpg"
     }
   ],
   "id": [
     {
       "title": "Nasi Goreng",
-      "description": "Resep nasi goreng yang sederhana dan lezat."
-    },
-    {
-      "title": "Sup Ayam",
-      "description": "Sup ayam hangat untuk hari yang dingin."
+      "description": "Resep nasi goreng sederhana dan enak.",
+      "imageUrl": "https://example.com/images/nasi_goreng.jpg"
     }
   ]
 }
