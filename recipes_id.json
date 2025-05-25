@@ -1,1 +1,13 @@
+[
+  {
+    "title": "Nasi Goreng",
+    "ingredients": "Nasi, Telur, Kecap Manis",
+    "instructions": "Tumis semua bahan hingga matang."
+  },
+  {
+    "title": "Sup Mie",
+    "ingredients": "Mie, Kaldu Ayam, Sayuran",
+    "instructions": "Rebus kaldu, tambahkan mie dan sayuran."
+  }
+]
 
