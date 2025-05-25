@@ -1,1 +1,13 @@
+[
+  {
+    "title": "Arroz Frito",
+    "ingredients": "Arroz, Huevo, Salsa de Soja",
+    "instructions": "Freír todos los ingredientes juntos."
+  },
+  {
+    "title": "Sopa de Fideos",
+    "ingredients": "Fideos, Caldo de Pollo, Verduras",
+    "instructions": "Hervir el caldo y añadir fideos y verduras."
+  }
+]
 
