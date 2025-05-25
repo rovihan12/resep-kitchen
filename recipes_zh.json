@@ -1,1 +1,13 @@
+[
+  {
+    "title": "炒饭",
+    "ingredients": "米饭, 鸡蛋, 酱油",
+    "instructions": "将所有材料一起炒熟。"
+  },
+  {
+    "title": "面条汤",
+    "ingredients": "面条, 鸡汤, 蔬菜",
+    "instructions": "煮沸汤，加入面条和蔬菜。"
+  }
+]
 
