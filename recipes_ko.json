@@ -1,1 +1,13 @@
+[
+  {
+    "title": "볶음밥",
+    "ingredients": "밥, 계란, 간장",
+    "instructions": "모든 재료를 함께 볶으세요."
+  },
+  {
+    "title": "국수 수프",
+    "ingredients": "국수, 닭육수, 야채",
+    "instructions": "육수를 끓이고 국수와 야채를 넣으세요."
+  }
+]
 
