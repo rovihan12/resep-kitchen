@@ -1,1 +1,13 @@
+[
+  {
+    "title": "Fried Rice",
+    "ingredients": "Rice, Egg, Soy Sauce",
+    "instructions": "Fry everything together."
+  },
+  {
+    "title": "Noodle Soup",
+    "ingredients": "Noodles, Chicken Broth, Vegetables",
+    "instructions": "Boil broth and add noodles and vegetables."
+  }
+]
 
