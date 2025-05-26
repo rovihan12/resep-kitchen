@@ -1,14 +1,20 @@
 [
   {
+    "title": "日式玉子烧 (Tamagoyaki，日式卷蛋)",
+    "ingredients": "3个鸡蛋，\n1汤匙糖，\n1茶匙酱油，\n1茶匙味醂（可选），\n少许盐，\n油用于煎制。",
+    "instructions": "1. 将鸡蛋、糖、酱油、味醂和盐搅拌均匀。\n2. 中火加热平底锅并抹油。\n3. 倒入薄薄一层蛋液，煎至半熟。\n4. 将蛋卷向一边卷起。\n5. 倒入更多蛋液，抬起卷蛋让蛋液流到下面。\n6. 蛋液半熟时再次卷起。\n7. 重复直到蛋液用完。\n8. 切片，热食或冷食均可。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tamagoyaki_with_chopped_green_onion.jpg"
+  },
+  {
     "title": "简单炒饭",
-    "ingredients": "2碗白米饭，\n2瓣蒜（切碎），\n1个鸡蛋，\n2汤匙甜酱油，\n1茶匙蚝油（可选），\n适量盐和胡椒，\n2汤匙食用油。",
-    "instructions": "1. 加热油，炒香蒜末。\n2. 加入鸡蛋，炒熟。\n3. 加入米饭，搅拌均匀。\n4. 加入酱油、蚝油、盐和胡椒，炒至入味。\n5. 配上喜欢的配料趁热食用。",
+    "ingredients": "2碗煮熟的白米饭，\n2瓣大蒜（切碎），\n1个鸡蛋，\n2汤匙甜酱油，\n1茶匙蚝油（可选），\n盐和胡椒适量，\n2汤匙食用油。",
+    "instructions": "1. 加热油，炒香大蒜。\n2. 打入鸡蛋，炒熟。\n3. 加入米饭，翻炒均匀。\n4. 加入酱油、蚝油、盐和胡椒，炒匀入味。\n5. 热食，搭配喜欢的配料。",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
-    "title": "饭团（日式饭团）",
-    "ingredients": "2杯煮熟的米饭，\n1茶匙盐，\n2片海苔（剪成合适大小），\n馅料（罐装吞拿鱼+蛋黄酱，烤三文鱼，或梅干）。",
-    "instructions": "1. 将盐拌入热饭中。\n2. 准备馅料。\n3. 将饭放在保鲜膜上，加入馅料并包好。\n4. 捏成三角形。\n5. 用海苔包裹。\n6. 上桌享用。",
+    "title": "饭团 (Onigiri，日本饭团)",
+    "ingredients": "2杯熟米饭，\n1茶匙盐，\n2张海苔（剪成合适大小），\n馅料（吞拿鱼沙拉、烤三文鱼、梅干等）。",
+    "instructions": "1. 将盐拌入温热的米饭中。\n2. 准备馅料。\n3. 将米饭放在保鲜膜上，加入馅料后包裹。\n4. 捏成三角形。\n5. 用海苔包裹。\n6. 上桌食用。",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
