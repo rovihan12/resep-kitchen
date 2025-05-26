@@ -1,14 +1,20 @@
 [
   {
+    "title": "Tamagoyaki (Japanese Rolled Omelette)",
+    "ingredients": "3 eggs,\n1 tablespoon sugar,\n1 teaspoon soy sauce,\n1 teaspoon mirin (optional),\na pinch of salt,\noil for cooking.",
+    "instructions": "1. Beat eggs with sugar, soy sauce, mirin, and salt until combined.\n2. Heat a lightly oiled pan over medium heat.\n3. Pour a thin layer of egg mixture and cook until half set.\n4. Roll the omelette to one side.\n5. Add more egg mixture, lifting the roll so the new layer flows underneath.\n6. When half cooked, roll again with the previous roll.\n7. Repeat until all egg mixture is used.\n8. Slice and serve hot or cold.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tamagoyaki_with_chopped_green_onion.jpg"
+  },
+  {
     "title": "Simple Fried Rice",
-    "ingredients": "2 plates of white rice,\n2 cloves garlic, minced,\n1 egg,\n2 tablespoons sweet soy sauce,\n1 teaspoon oyster sauce (optional),\nsalt and pepper to taste,\n2 tablespoons cooking oil.",
+    "ingredients": "2 plates of cooked white rice,\n2 cloves garlic minced,\n1 egg,\n2 tablespoons sweet soy sauce,\n1 teaspoon oyster sauce (optional),\nsalt and pepper to taste,\n2 tablespoons cooking oil.",
     "instructions": "1. Heat oil and sauté garlic until fragrant.\n2. Add egg and scramble until cooked.\n3. Add rice and mix well.\n4. Add soy sauce, oyster sauce, salt, and pepper. Stir until flavors are absorbed.\n5. Serve hot with your favorite toppings.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
     "title": "Onigiri (Japanese Rice Ball)",
     "ingredients": "2 cups cooked rice,\n1 teaspoon salt,\n2 sheets nori (cut to size),\nfillings (canned tuna + mayo, grilled salmon, or umeboshi).",
-    "instructions": "1. Mix salt into warm rice.\n2. Prepare fillings.\n3. Place rice on plastic wrap, add fillings, and wrap.\n4. Shape into a triangle.\n5. Wrap with nori.\n6. Serve.",
+    "instructions": "1. Mix salt into warm rice.\n2. Prepare fillings.\n3. Place rice on plastic wrap, add filling, then wrap.\n4. Shape into a triangle.\n5. Wrap with nori.\n6. Serve.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
