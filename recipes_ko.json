@@ -1,13 +1,10 @@
 [
   {
-    "title": "볶음밥",
-    "ingredients": "밥, 계란, 간장",
-    "instructions": "모든 재료를 함께 볶으세요."
+    "language": "Korean",
+    "title": "오니기리 (일본식 주먹밥)",
+    "ingredients": "밥 2컵, 소금 1작은술, 김 2장 (크기에 맞게 자름), 속 재료 (참치캔 + 마요네즈, 구운 연어 찢은 것, 또는 우메보시)",
+    "instructions": "1. 따뜻한 밥에 소금을 골고루 섞습니다.\n2. 속 재료를 준비합니다.\n3. 랩 위에 밥을 펴고 중앙에 속 재료를 넣고 밥으로 덮습니다.\n4. 랩을 이용해 삼각형 또는 동그랗게 만듭니다.\n5. 김으로 일부를 감쌉니다.\n6. 서빙합니다.",
+    "image": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/ef69aaf4a9974974e18621b5d60249e0ea49420e/Onigiri.jpg"
   },
-  {
-    "title": "국수 수프",
-    "ingredients": "국수, 닭육수, 야채",
-    "instructions": "육수를 끓이고 국수와 야채를 넣으세요."
-  }
 ]
 
