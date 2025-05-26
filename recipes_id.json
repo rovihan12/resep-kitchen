@@ -1,32 +1,8 @@
 [
   {
-    "title": "Onigiri (Nasi Kepal Jepang)",
-    "ingredients": [
-      "2 gelas nasi putih matang (gunakan nasi Jepang atau nasi pulen)",
-      "1 sdt garam",
-      "2 lembar nori (rumput laut kering), potong sesuai ukuran onigiri",
-      "Isian (pilih salah satu atau campuran):",
-      "- 50 gr tuna kaleng, campur dengan sedikit mayones dan garam",
-      "- 50 gr salmon panggang, suwir-suwir",
-      "- 50 gr umeboshi (plum asin Jepang), cincang halus",
-      "- Atau isian lain sesuai selera (ayam cincang, daging, dll)"
-    ],
-    "tools": [
-      "Plastik wrap (untuk membentuk nasi agar tidak lengket)"
-    ],
-    "instructions": [
-      "1. Siapkan nasi: Pastikan nasi masih hangat supaya mudah dibentuk. Tambahkan garam ke nasi dan aduk rata.",
-      "2. Siapkan isian: Campur tuna dengan mayones dan sedikit garam, atau suwir salmon, atau siapkan umeboshi cincang.",
-      "3. Bentuk onigiri: Taruh sekitar 1/3 gelas nasi di tengah plastik wrap, pipihkan, beri 1–2 sdt isian, tutup lagi dengan nasi.",
-      "4. Kumpulkan plastik wrap dan tekan-tekan membentuk segitiga atau bulat. Padatkan secukupnya.",
-      "5. Buka plastik wrap dan bungkus sebagian onigiri dengan potongan nori.",
-      "6. Sajikan langsung atau masukkan ke kotak bekal."
-    ],
-    "tips": [
-      "Onigiri paling enak disantap dalam keadaan segar dan nasi masih hangat.",
-      "Bisa buat variasi isian sesuai selera dan bahan yang tersedia.",
-      "Untuk rasa ekstra, taburkan furikake (bumbu tabur Jepang) di luar nasi."
-    ],
+    "title": "Onigiri (Bola Nasi Jepang)",
+    "ingredients": "2 cangkir nasi matang, 1 sdt garam, 2 lembar nori (potong sesuai ukuran), isian (tuna kalengan + mayo, salmon panggang, atau plum acar)",
+    "instructions": "1. Campurkan garam ke dalam nasi hangat. 2. Siapkan isian. 3. Letakkan nasi di atas pembungkus, tambahkan isian, tutup. 4. Bentuk menjadi segitiga. 5. Bungkus dengan nori. 6. Sajikan.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
