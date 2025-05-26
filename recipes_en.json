@@ -1,14 +1,14 @@
 [
   {
     "title": "Simple Fried Rice",
-    "ingredients": "2 plates of white rice,\n2 cloves garlic, minced,\n1 egg,\n2 tablespoons sweet soy sauce,\n1 teaspoon oyster sauce (optional),\nsalt and pepper to taste,\n2 tablespoons cooking oil.",
-    "instructions": "1. Heat oil and sauté garlic until fragrant.\n2. Add egg and scramble until cooked.\n3. Add rice and mix well.\n4. Add soy sauce, oyster sauce, salt, and pepper. Stir until flavors are absorbed.\n5. Serve hot with your favorite toppings.",
+    "ingredients": "<b><span style='font-size:18px;'>Ingredients:</span></b><br>2 plates of white rice,<br>2 cloves garlic, minced,<br>1 egg,<br>2 tablespoons sweet soy sauce,<br>1 teaspoon oyster sauce (optional),<br>salt and pepper to taste,<br>2 tablespoons cooking oil.",
+    "instructions": "<b><span style='font-size:18px;'>Instructions:</span></b><br>1. Heat oil and sauté garlic until fragrant.<br>2. Add egg and scramble until cooked.<br>3. Add rice and mix well.<br>4. Add soy sauce, oyster sauce, salt, and pepper. Stir until flavors are absorbed.<br>5. Serve hot with your favorite toppings.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
     "title": "Onigiri (Japanese Rice Ball)",
-    "ingredients": "2 cups cooked rice,\n1 teaspoon salt,\n2 sheets nori (cut to size),\nfillings (canned tuna + mayo, grilled salmon, or umeboshi).",
-    "instructions": "1. Mix salt into warm rice.\n2. Prepare fillings.\n3. Place rice on plastic wrap, add fillings, and wrap.\n4. Shape into a triangle.\n5. Wrap with nori.\n6. Serve.",
+    "ingredients": "<b><span style='font-size:18px;'>Ingredients:</span></b><br>2 cups cooked rice,<br>1 teaspoon salt,<br>2 sheets nori (cut to size),<br>fillings (canned tuna + mayo, grilled salmon, or umeboshi).",
+    "instructions": "<b><span style='font-size:18px;'>Instructions:</span></b><br>1. Mix salt into warm rice.<br>2. Prepare fillings.<br>3. Place rice on plastic wrap, add fillings, and wrap.<br>4. Shape into a triangle.<br>5. Wrap with nori.<br>6. Serve.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
