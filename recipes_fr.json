@@ -1,14 +1,20 @@
 [
   {
-    "title": "Nasi Goreng Sederhana",
-    "ingredients": "2 assiettes de riz blanc,\n2 gousses d'ail hachées,\n1 œuf,\n2 cuillères à soupe de sauce soja sucrée,\n1 cuillère à café de sauce aux huîtres (optionnel),\nsel et poivre selon le goût,\n2 cuillères à soupe d'huile de cuisson.",
-    "instructions": "1. Chauffez l'huile et faites revenir l'ail jusqu'à ce qu'il soit parfumé.\n2. Ajoutez l'œuf et brouillez-le jusqu'à cuisson complète.\n3. Ajoutez le riz et mélangez bien.\n4. Ajoutez la sauce soja, la sauce aux huîtres, le sel et le poivre. Mélangez jusqu'à ce que les saveurs soient absorbées.\n5. Servez chaud avec la garniture de votre choix.",
+    "title": "Tamagoyaki (Omelette roulée japonaise)",
+    "ingredients": "3 œufs,\n1 cuillère à soupe de sucre,\n1 cuillère à café de sauce soja,\n1 cuillère à café de mirin (optionnel),\nune pincée de sel,\nhuile pour la cuisson.",
+    "instructions": "1. Battre les œufs avec le sucre, la sauce soja, le mirin et le sel.\n2. Chauffer une poêle légèrement huilée à feu moyen.\n3. Verser une fine couche de mélange d'œufs et cuire jusqu'à mi-cuisson.\n4. Rouler l'omelette sur un côté.\n5. Ajouter plus de mélange d'œufs, en soulevant le rouleau pour que la nouvelle couche s'écoule en dessous.\n6. Lorsqu'elle est mi-cuite, rouler à nouveau avec le rouleau précédent.\n7. Répéter jusqu'à épuisement du mélange.\n8. Couper en morceaux et servir chaud ou froid.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tamagoyaki_with_chopped_green_onion.jpg"
+  },
+  {
+    "title": "Riz frit simple",
+    "ingredients": "2 assiettes de riz blanc,\n2 gousses d'ail émincées,\n1 œuf,\n2 cuillères à soupe de sauce soja sucrée,\n1 cuillère à café de sauce d'huître (optionnelle),\nsel et poivre au goût,\n2 cuillères à soupe d'huile de cuisson.",
+    "instructions": "1. Chauffer l'huile et faire revenir l'ail jusqu'à ce qu'il soit parfumé.\n2. Ajouter l'œuf et brouiller jusqu'à cuisson.\n3. Ajouter le riz et bien mélanger.\n4. Ajouter la sauce soja, la sauce d'huître, le sel et le poivre. Remuer jusqu'à absorption des saveurs.\n5. Servir chaud avec vos garnitures préférées.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
-    "title": "Onigiri (Boule de riz japonaise)",
-    "ingredients": "2 tasses de riz cuit,\n1 cuillère à café de sel,\n2 feuilles de nori (découpées à la taille),\nfarce (thon en conserve + mayonnaise, saumon grillé, ou umeboshi).",
-    "instructions": "1. Mélangez le sel dans le riz chaud.\n2. Préparez la garniture.\n3. Placez le riz sur du film alimentaire, ajoutez la garniture, puis refermez.\n4. Façonnez en triangle.\n5. Enveloppez avec le nori.\n6. Servez.",
+    "title": "Onigiri (boule de riz japonaise)",
+    "ingredients": "2 tasses de riz cuit,\n1 cuillère à café de sel,\n2 feuilles de nori (découpées),\nGarnitures (thon en conserve + mayo, saumon grillé, ou umeboshi).",
+    "instructions": "1. Mélanger le sel dans le riz chaud.\n2. Préparer les garnitures.\n3. Placer le riz sur du film plastique, ajouter la garniture, puis envelopper.\n4. Former un triangle.\n5. Envelopper avec la feuille de nori.\n6. Servir.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
