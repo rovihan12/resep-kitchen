@@ -1,10 +1,14 @@
 [
   {
-    "language": "Chinese",
-    "title": "饭团 (日本饭团)",
-    "ingredients": "2杯熟白米饭，1茶匙盐，2张海苔（剪成合适大小），馅料（罐装金枪鱼加蛋黄酱、烤鲑鱼丝或梅干）",
-    "instructions": "1. 将盐均匀混入温热的米饭中。\n2. 准备馅料。\n3. 取适量米饭放在保鲜膜上，中央放馅料，再覆盖米饭。\n4. 用保鲜膜将其捏成三角形或圆形。\n5. 部分包上海苔。\n6. 上桌享用。",
+    "title": "简单炒饭",
+    "ingredients": "2碗白米饭，\n2瓣蒜（切碎），\n1个鸡蛋，\n2汤匙甜酱油，\n1茶匙蚝油（可选），\n适量盐和胡椒，\n2汤匙食用油。",
+    "instructions": "1. 加热油，炒香蒜末。\n2. 加入鸡蛋，炒熟。\n3. 加入米饭，搅拌均匀。\n4. 加入酱油、蚝油、盐和胡椒，炒至入味。\n5. 配上喜欢的配料趁热食用。",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
+  },
+  {
+    "title": "饭团（日式饭团）",
+    "ingredients": "2杯煮熟的米饭，\n1茶匙盐，\n2片海苔（剪成合适大小），\n馅料（罐装吞拿鱼+蛋黄酱，烤三文鱼，或梅干）。",
+    "instructions": "1. 将盐拌入热饭中。\n2. 准备馅料。\n3. 将饭放在保鲜膜上，加入馅料并包好。\n4. 捏成三角形。\n5. 用海苔包裹。\n6. 上桌享用。",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
-
