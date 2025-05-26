@@ -1,14 +1,20 @@
 [
   {
+    "title": "Tamagoyaki (Omelet Gulung Jepang)",
+    "ingredients": "3 butir telur,\n1 sendok makan gula,\n1 sendok teh kecap asin,\n1 sendok teh mirin (opsional),\nsejumput garam,\nminyak untuk menggoreng.",
+    "instructions": "1. Kocok telur dengan gula, kecap asin, mirin, dan garam hingga tercampur.\n2. Panaskan wajan yang sudah dioles minyak dengan api sedang.\n3. Tuang lapisan tipis adonan telur dan masak hingga setengah matang.\n4. Gulung telur ke satu sisi.\n5. Tambahkan lagi adonan telur, angkat gulungan agar adonan baru masuk ke bawah.\n6. Setelah setengah matang, gulung kembali bersama gulungan sebelumnya.\n7. Ulangi hingga adonan habis.\n8. Iris dan sajikan hangat atau dingin.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tamagoyaki_with_chopped_green_onion.jpg"
+  },
+  {
     "title": "Nasi Goreng Sederhana",
-    "ingredients": "2 piring nasi putih,\n2 siung bawang putih cincang,\n1 butir telur,\n2 sdm kecap manis,\n1 sdt saus tiram (opsional), garam dan lada secukupnya,\n2 sdm minyak goreng.",
-    "instructions": "1. Panaskan minyak dan tumis bawang putih hingga harum.\n2. Masukkan telur dan orak-arik hingga matang.\n3. Tambahkan nasi, aduk rata.\n4. Masukkan kecap manis, saus tiram, garam, dan lada. Aduk hingga bumbu meresap.\n5. Sajikan hangat dengan topping sesuai selera.",
+    "ingredients": "2 piring nasi putih,\n2 siung bawang putih cincang,\n1 telur,\n2 sendok makan kecap manis,\n1 sendok teh saus tiram (opsional),\ngaram dan merica secukupnya,\n2 sendok makan minyak goreng.",
+    "instructions": "1. Panaskan minyak dan tumis bawang putih hingga harum.\n2. Masukkan telur, orak-arik hingga matang.\n3. Tambahkan nasi dan aduk rata.\n4. Masukkan kecap manis, saus tiram, garam, dan merica. Aduk hingga merata.\n5. Sajikan hangat dengan topping favorit.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
     "title": "Onigiri (Bola Nasi Jepang)",
-    "ingredients": "2 cangkir nasi matang,\n1 sdt garam,\n2 lembar nori (dipotong sesuai ukuran),\nisian (tuna kaleng + mayones, salmon panggang, atau umeboshi).",
-    "instructions": "1. Campur garam ke nasi hangat.\n2. Siapkan bahan isian.\n3. Letakkan nasi di atas plastik wrap, tambahkan isian, tutup.\n4. Bentuk menjadi segitiga.\n5. Bungkus dengan nori.\n6. Sajikan.",
+    "ingredients": "2 cangkir nasi matang,\n1 sendok teh garam,\n2 lembar nori (potong sesuai ukuran),\nisi (tuna kaleng + mayones, salmon panggang, atau umeboshi).",
+    "instructions": "1. Campur garam ke dalam nasi hangat.\n2. Siapkan isian.\n3. Taruh nasi di plastik pembungkus, tambahkan isian, lalu bungkus.\n4. Bentuk segitiga.\n5. Bungkus dengan nori.\n6. Sajikan.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
