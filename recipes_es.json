@@ -1,10 +1,14 @@
 [
   {
-    "language": "Spanish",
-    "title": "Onigiri (Bola de Arroz Japonesa)",
-    "ingredients": "2 tazas de arroz blanco cocido, 1 cucharadita de sal, 2 hojas de nori (cortadas), relleno (atún en lata con mayonesa, salmón a la parrilla desmenuzado, o ciruela umeboshi)",
-    "instructions": "1. Mezcla la sal con el arroz caliente.\n2. Prepara el relleno.\n3. Toma un poco de arroz, aplánalo en film transparente, agrega el relleno en el centro y cubre con arroz.\n4. Forma un triángulo o bola con el film.\n5. Envuelve parcialmente con nori.\n6. Sirve.",
+    "title": "Nasi Goreng Sencillo",
+    "ingredients": "2 platos de arroz blanco,\n2 dientes de ajo picados,\n1 huevo,\n2 cucharadas de salsa de soja dulce,\n1 cucharadita de salsa de ostras (opcional),\nsal y pimienta al gusto,\n2 cucharadas de aceite para freír.",
+    "instructions": "1. Calienta el aceite y sofríe el ajo hasta que huela bien.\n2. Añade el huevo y revuélvelo hasta que esté cocido.\n3. Agrega el arroz y mezcla bien.\n4. Incorpora la salsa de soja, salsa de ostras, sal y pimienta. Mezcla hasta que los sabores se integren.\n5. Sirve caliente con la guarnición que prefieras.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
+  },
+  {
+    "title": "Onigiri (Bola de arroz japonesa)",
+    "ingredients": "2 tazas de arroz cocido,\n1 cucharadita de sal,\n2 hojas de nori (recortadas al tamaño),\nrelleno (atún enlatado + mayonesa, salmón a la parrilla o umeboshi).",
+    "instructions": "1. Mezcla la sal en el arroz caliente.\n2. Prepara el relleno.\n3. Coloca el arroz sobre papel film, añade el relleno y cierra.\n4. Forma un triángulo.\n5. Envuelve con nori.\n6. Sirve.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
-
