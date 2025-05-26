@@ -1,9 +1,14 @@
 [
   {
-    "language": "Português",
-    "title": "Onigiri (Bola de Arroz Japonesa)",
-    "ingredients": "2 xícaras de arroz branco cozido, 1 colher de chá de sal, 2 folhas de nori (cortadas no tamanho adequado), recheio (atum enlatado com maionese, salmão grelhado desfiado ou umeboshi)",
-    "instructions": "1. Misture o sal no arroz morno de forma uniforme.\n2. Prepare o recheio de sua preferência.\n3. Pegue um pouco de arroz, achate sobre um pedaço de filme plástico, coloque o recheio no centro e cubra com mais arroz.\n4. Modele o arroz em forma de triângulo ou bola usando o filme plástico.\n5. Envolva parcialmente com a folha de nori.\n6. Sirva.",
+    "title": "Nasi Goreng Simples",
+    "ingredients": "2 pratos de arroz branco,\n2 dentes de alho picados,\n1 ovo,\n2 colheres de sopa de molho de soja doce,\n1 colher de chá de molho de ostras (opcional),\nsal e pimenta a gosto,\n2 colheres de sopa de óleo para fritar.",
+    "instructions": "1. Aqueça o óleo e refogue o alho até ficar perfumado.\n2. Adicione o ovo e mexa até cozinhar.\n3. Acrescente o arroz e misture bem.\n4. Adicione o molho de soja, molho de ostras, sal e pimenta. Misture até os temperos incorporarem.\n5. Sirva quente com a cobertura que desejar.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
+  },
+  {
+    "title": "Onigiri (Bolinho de arroz japonês)",
+    "ingredients": "2 xícaras de arroz cozido,\n1 colher de chá de sal,\n2 folhas de nori (cortadas no tamanho),\nrecheio (atum enlatado + maionese, salmão grelhado ou umeboshi).",
+    "instructions": "1. Misture o sal no arroz quente.\n2. Prepare o recheio.\n3. Coloque o arroz em filme plástico, adicione o recheio e feche.\n4. Modele em forma de triângulo.\n5. Envolva com o nori.\n6. Sirva.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
