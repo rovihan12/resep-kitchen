@@ -1,10 +1,14 @@
 [
   {
-    "language": "Korean",
+    "title": "간단한 나시고랭",
+    "ingredients": "밥 2인분,\n다진 마늘 2쪽,\n계란 1개,\n달콤한 간장 2큰술,\n굴소스 1작은술 (선택 사항),\n소금과 후추 적당량,\n식용유 2큰술.",
+    "instructions": "1. 기름을 달구고 마늘을 향이 날 때까지 볶는다.\n2. 계란을 넣고 스크램블한다.\n3. 밥을 넣고 잘 섞는다.\n4. 간장, 굴소스, 소금, 후추를 넣고 양념이 배도록 볶는다.\n5. 원하는 토핑과 함께 따뜻하게 제공한다.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
+  },
+  {
     "title": "오니기리 (일본식 주먹밥)",
-    "ingredients": "밥 2컵, 소금 1작은술, 김 2장 (크기에 맞게 자름), 속 재료 (참치캔 + 마요네즈, 구운 연어 찢은 것, 또는 우메보시)",
-    "instructions": "1. 따뜻한 밥에 소금을 골고루 섞습니다.\n2. 속 재료를 준비합니다.\n3. 랩 위에 밥을 펴고 중앙에 속 재료를 넣고 밥으로 덮습니다.\n4. 랩을 이용해 삼각형 또는 동그랗게 만듭니다.\n5. 김으로 일부를 감쌉니다.\n6. 서빙합니다.",
+    "ingredients": "밥 2컵,\n소금 1작은술,\n김 2장 (크기에 맞게 자름),\n속재료 (참치캔 + 마요네즈, 구운 연어, 우메보시 등).",
+    "instructions": "1. 따뜻한 밥에 소금을 섞는다.\n2. 속재료를 준비한다.\n3. 랩 위에 밥을 올리고 속재료를 넣어 감싼다.\n4. 삼각형 모양으로 만든다.\n5. 김으로 감싼다.\n6. 제공한다.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
-
