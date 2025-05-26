@@ -4,5 +4,11 @@
     "ingredients": "2 cups cooked rice, 1 tsp salt, 2 sheets nori (cut to size), filling (canned tuna + mayo, grilled salmon, or pickled plum)",
     "instructions": "1. Mix salt into warm rice. 2. Prepare filling. 3. Place rice on wrap, add filling, cover. 4. Shape into triangle. 5. Wrap with nori. 6. Serve.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
+  },
+  {
+    "title": "Nasi Goreng Sederhana",
+    "ingredients": "2 piring nasi putih, 2 siung bawang putih cincang, 1 butir telur, 2 sdm kecap manis, 1 sdt saus tiram (opsional), garam dan lada secukupnya, 2 sdm minyak goreng",
+    "instructions": "1. Panaskan minyak dan tumis bawang putih hingga harum. 2. Masukkan telur dan orak-arik. 3. Tambahkan nasi, aduk rata. 4. Masukkan kecap, saus tiram, garam, dan lada. Aduk rata hingga matang. 5. Sajikan hangat dengan topping sesuai selera.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   }
 ]
