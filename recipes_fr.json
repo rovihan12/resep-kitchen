@@ -1,10 +1,14 @@
 [
   {
-    "language": "French",
-    "title": "Onigiri (Boule de Riz Japonaise)",
-    "ingredients": "2 tasses de riz blanc cuit, 1 c. à café de sel, 2 feuilles de nori (découpées), garniture (thon en boîte avec mayo, saumon grillé effiloché, ou prune umeboshi)",
-    "instructions": "1. Mélangez le sel dans le riz chaud.\n2. Préparez la garniture.\n3. Prenez un peu de riz, aplatissez-le sur un film plastique, ajoutez la garniture au centre, recouvrez de riz.\n4. Façonnez en triangle ou boule avec le film.\n5. Enveloppez partiellement avec la feuille de nori.\n6. Servez.",
+    "title": "Nasi Goreng Sederhana",
+    "ingredients": "2 assiettes de riz blanc,\n2 gousses d'ail hachées,\n1 œuf,\n2 cuillères à soupe de sauce soja sucrée,\n1 cuillère à café de sauce aux huîtres (optionnel),\nsel et poivre selon le goût,\n2 cuillères à soupe d'huile de cuisson.",
+    "instructions": "1. Chauffez l'huile et faites revenir l'ail jusqu'à ce qu'il soit parfumé.\n2. Ajoutez l'œuf et brouillez-le jusqu'à cuisson complète.\n3. Ajoutez le riz et mélangez bien.\n4. Ajoutez la sauce soja, la sauce aux huîtres, le sel et le poivre. Mélangez jusqu'à ce que les saveurs soient absorbées.\n5. Servez chaud avec la garniture de votre choix.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
+  },
+  {
+    "title": "Onigiri (Boule de riz japonaise)",
+    "ingredients": "2 tasses de riz cuit,\n1 cuillère à café de sel,\n2 feuilles de nori (découpées à la taille),\nfarce (thon en conserve + mayonnaise, saumon grillé, ou umeboshi).",
+    "instructions": "1. Mélangez le sel dans le riz chaud.\n2. Préparez la garniture.\n3. Placez le riz sur du film alimentaire, ajoutez la garniture, puis refermez.\n4. Façonnez en triangle.\n5. Enveloppez avec le nori.\n6. Servez.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
-
