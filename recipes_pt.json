@@ -1,14 +1,20 @@
 [
   {
-    "title": "Nasi Goreng Simples",
-    "ingredients": "2 pratos de arroz branco,\n2 dentes de alho picados,\n1 ovo,\n2 colheres de sopa de molho de soja doce,\n1 colher de chá de molho de ostras (opcional),\nsal e pimenta a gosto,\n2 colheres de sopa de óleo para fritar.",
-    "instructions": "1. Aqueça o óleo e refogue o alho até ficar perfumado.\n2. Adicione o ovo e mexa até cozinhar.\n3. Acrescente o arroz e misture bem.\n4. Adicione o molho de soja, molho de ostras, sal e pimenta. Misture até os temperos incorporarem.\n5. Sirva quente com a cobertura que desejar.",
+    "title": "Tamagoyaki (Omelete japonês enrolado)",
+    "ingredients": "3 ovos,\n1 colher de sopa de açúcar,\n1 colher de chá de molho de soja,\n1 colher de chá de mirin (opcional),\numa pitada de sal,\nóleo para fritar.",
+    "instructions": "1. Bata os ovos com açúcar, molho de soja, mirin e sal até misturar.\n2. Aqueça uma frigideira levemente untada em fogo médio.\n3. Despeje uma camada fina da mistura e cozinhe até meio firme.\n4. Enrole a omelete para um lado.\n5. Adicione mais mistura de ovo, levantando o rolo para a nova camada entrar por baixo.\n6. Quando estiver meio cozido, enrole novamente com o rolo anterior.\n7. Repita até acabar a mistura.\n8. Corte em pedaços e sirva quente ou frio.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tamagoyaki_with_chopped_green_onion.jpg"
+  },
+  {
+    "title": "Arroz frito simples",
+    "ingredients": "2 pratos de arroz branco,\n2 dentes de alho picados,\n1 ovo,\n2 colheres de sopa de molho de soja doce,\n1 colher de chá de molho de ostra (opcional),\nsal e pimenta a gosto,\n2 colheres de sopa de óleo para cozinhar.",
+    "instructions": "1. Aqueça o óleo e refogue o alho até ficar perfumado.\n2. Adicione o ovo e mexa até cozinhar.\n3. Adicione o arroz e misture bem.\n4. Acrescente molho de soja, molho de ostra, sal e pimenta. Misture até os sabores serem absorvidos.\n5. Sirva quente com seus acompanhamentos favoritos.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
     "title": "Onigiri (Bolinho de arroz japonês)",
-    "ingredients": "2 xícaras de arroz cozido,\n1 colher de chá de sal,\n2 folhas de nori (cortadas no tamanho),\nrecheio (atum enlatado + maionese, salmão grelhado ou umeboshi).",
-    "instructions": "1. Misture o sal no arroz quente.\n2. Prepare o recheio.\n3. Coloque o arroz em filme plástico, adicione o recheio e feche.\n4. Modele em forma de triângulo.\n5. Envolva com o nori.\n6. Sirva.",
+    "ingredients": "2 xícaras de arroz cozido,\n1 colher de chá de sal,\n2 folhas de nori (cortadas),\nrecheios (atum enlatado + maionese, salmão grelhado ou umeboshi).",
+    "instructions": "1. Misture o sal no arroz quente.\n2. Prepare os recheios.\n3. Coloque o arroz no filme plástico, adicione o recheio e embrulhe.\n4. Modele em formato de triângulo.\n5. Envolva com nori.\n6. Sirva.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
