@@ -1,20 +1,38 @@
 [
   {
+    "title": "Shakshuka (Œufs pochés à la sauce tomate)",
+    "ingredients": "2 œufs,\n1 cuillère à soupe d'huile d'olive,\n1/2 oignon haché,\n1 gousse d'ail émincée,\n1/2 poivron coupé en dés,\n2 tomates coupées en dés (ou 1/2 tasse de tomates en conserve),\nsel et poivre selon le goût,\nune pincée de paprika ou de cumin (optionnel),\npersil frais (optionnel).",
+    "instructions": "1. Chauffer l'huile d'olive dans une poêle à feu moyen.\n2. Faire revenir l'oignon et l'ail jusqu'à ce qu'ils soient tendres.\n3. Ajouter le poivron et cuire jusqu'à ce qu'il soit tendre.\n4. Incorporer les tomates, le paprika/cumin, le sel et le poivre. Laisser mijoter pendant 5 à 7 minutes.\n5. Faire de petits creux dans la sauce et y casser les œufs.\n6. Couvrir et cuire jusqu'à ce que les œufs soient cuits selon votre préférence.\n7. Garnir de persil et servir avec du pain.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Shakshuka.jpg"
+  },
+  {
+    "title": "Roti Telur (Galette malaisienne à l'œuf)",
+    "ingredients": "1 roti canai ou paratha nature (congelé ou frais),\n1 œuf,\n1 cuillère à soupe d'oignon haché,\nsel et poivre selon le goût,\nhuile ou beurre pour la cuisson.",
+    "instructions": "1. Décongeler le roti si nécessaire.\n2. Battre l'œuf avec l'oignon, le sel et le poivre.\n3. Chauffer un peu d'huile ou de beurre dans une poêle.\n4. Verser le mélange d'œuf et placer immédiatement le roti dessus.\n5. Cuire jusqu'à ce que l'œuf soit pris, puis retourner pour dorer l'autre côté.\n6. Servir chaud avec une sauce pimentée ou du curry.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Roti%20Telur.jpg"
+  },
+  {
+    "title": "Pain Perdu (French Toast)",
+    "ingredients": "2 tranches de pain,\n1 œuf,\n1/4 tasse de lait,\n1 cuillère à café de sucre,\nune pincée de cannelle (optionnel),\nbeurre pour la cuisson,\nsirop ou sucre glace pour servir.",
+    "instructions": "1. Battre l'œuf, le lait, le sucre et la cannelle ensemble.\n2. Tremper les tranches de pain dans le mélange, en les enrobant des deux côtés.\n3. Faire fondre le beurre dans une poêle à feu moyen.\n4. Cuire le pain jusqu'à ce qu'il soit doré des deux côtés.\n5. Servir chaud avec du sirop ou du sucre glace.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/French%20Toast.jpg"
+  },
+  {
     "title": "Tamagoyaki (Omelette roulée japonaise)",
-    "ingredients": "3 œufs,\n1 cuillère à soupe de sucre,\n1 cuillère à café de sauce soja,\n1 cuillère à café de mirin (optionnel),\nune pincée de sel,\nhuile pour la cuisson.",
-    "instructions": "1. Battre les œufs avec le sucre, la sauce soja, le mirin et le sel.\n2. Chauffer une poêle légèrement huilée à feu moyen.\n3. Verser une fine couche de mélange d'œufs et cuire jusqu'à mi-cuisson.\n4. Rouler l'omelette sur un côté.\n5. Ajouter plus de mélange d'œufs, en soulevant le rouleau pour que la nouvelle couche s'écoule en dessous.\n6. Lorsqu'elle est mi-cuite, rouler à nouveau avec le rouleau précédent.\n7. Répéter jusqu'à épuisement du mélange.\n8. Couper en morceaux et servir chaud ou froid.",
+    "ingredients": "3 œufs,\n1 cuillère à soupe de sucre,\n1 cuillère à café de sauce soja,\nune pincée de sel,\nhuile pour la cuisson.",
+    "instructions": "1. Battre les œufs avec le sucre, la sauce soja et le sel jusqu'à ce que le mélange soit homogène.\n2. Chauffer une poêle légèrement huilée à feu moyen.\n3. Verser une fine couche du mélange d'œufs et cuire jusqu'à ce qu'elle soit à moitié prise.\n4. Rouler l'omelette d'un côté de la poêle.\n5. Ajouter plus de mélange d'œufs, en soulevant le rouleau pour que la nouvelle couche s'écoule en dessous.\n6. Lorsque la nouvelle couche est à moitié cuite, rouler à nouveau avec le rouleau précédent.\n7. Répéter jusqu'à ce que tout le mélange d'œufs soit utilisé.\n8. Couper et servir chaud ou froid.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Tamagoyaki.jpg"
   },
   {
-    "title": "Riz frit simple",
-    "ingredients": "2 assiettes de riz blanc,\n2 gousses d'ail émincées,\n1 œuf,\n2 cuillères à soupe de sauce soja sucrée,\n1 cuillère à café de sauce d'huître (optionnelle),\nsel et poivre au goût,\n2 cuillères à soupe d'huile de cuisson.",
-    "instructions": "1. Chauffer l'huile et faire revenir l'ail jusqu'à ce qu'il soit parfumé.\n2. Ajouter l'œuf et brouiller jusqu'à cuisson.\n3. Ajouter le riz et bien mélanger.\n4. Ajouter la sauce soja, la sauce d'huître, le sel et le poivre. Remuer jusqu'à absorption des saveurs.\n5. Servir chaud avec vos garnitures préférées.",
+    "title": "Riz Frit Simple",
+    "ingredients": "2 assiettes de riz blanc cuit,\n2 gousses d'ail émincées,\n1 œuf,\n2 cuillères à soupe de sauce soja sucrée,\n1 cuillère à café de sauce d'huître (optionnel),\nsel et poivre selon le goût,\n2 cuillères à soupe d'huile de cuisson.",
+    "instructions": "1. Chauffer l'huile et faire revenir l'ail jusqu'à ce qu'il soit parfumé.\n2. Ajouter l'œuf et brouiller jusqu'à ce qu'il soit cuit.\n3. Ajouter le riz et bien mélanger.\n4. Ajouter la sauce soja, la sauce d'huître, le sel et le poivre. Remuer jusqu'à ce que les saveurs soient absorbées.\n5. Servir chaud avec vos garnitures préférées.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
-    "title": "Onigiri (boule de riz japonaise)",
-    "ingredients": "2 tasses de riz cuit,\n1 cuillère à café de sel,\n2 feuilles de nori (découpées),\nGarnitures (thon en conserve + mayo, saumon grillé, ou umeboshi).",
-    "instructions": "1. Mélanger le sel dans le riz chaud.\n2. Préparer les garnitures.\n3. Placer le riz sur du film plastique, ajouter la garniture, puis envelopper.\n4. Former un triangle.\n5. Envelopper avec la feuille de nori.\n6. Servir.",
+    "title": "Onigiri (Boulettes de riz japonaises)",
+    "ingredients": "2 tasses de riz cuit,\n1 cuillère à café de sel,\n2 feuilles de nori (coupées à la taille),\ngarnitures (thon en conserve + mayo, saumon grillé ou umeboshi).",
+    "instructions": "1. Mélanger le sel dans le riz chaud.\n2. Préparer les garnitures.\n3. Placer le riz sur un film plastique, ajouter la garniture, puis envelopper.\n4. Façonner en triangle.\n5. Envelopper avec le nori.\n6. Servir.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
