@@ -1,4 +1,22 @@
 [
+ {
+    "title": "Shakshuka (Middle Eastern Poached Eggs)",
+    "ingredients": "2 eggs,\n1 tablespoon olive oil,\n1/2 onion chopped,\n1 garlic clove minced,\n1/2 bell pepper chopped,\n2 tomatoes chopped (or 1/2 cup canned tomatoes),\nsalt and pepper to taste,\na pinch of paprika or cumin (optional),\nfresh parsley (optional).",
+    "instructions": "1. Heat olive oil in a skillet over medium heat.\n2. Sauté onion and garlic until soft.\n3. Add bell pepper and cook until tender.\n4. Stir in tomatoes, paprika/cumin, salt, and pepper. Simmer for 5-7 minutes.\n5. Make small wells and crack eggs into them.\n6. Cover and cook until eggs are set to your liking.\n7. Garnish with parsley and serve with bread.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Shakshuka.jpg"
+  },
+  {
+    "title": "Roti Telur (Malaysian Egg Flatbread)",
+    "ingredients": "1 roti canai or plain paratha (frozen ok),\n1 egg,\n1 tablespoon chopped onion,\nsalt and pepper to taste,\noil or butter for frying.",
+    "instructions": "1. Thaw roti if frozen.\n2. Beat egg with onion, salt, and pepper.\n3. Heat a little oil/butter in a pan.\n4. Pour egg mixture and immediately place roti over it.\n5. Cook until egg sets and flip to crisp the other side.\n6. Serve hot with chili sauce or curry.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/RotiTelur.jpg"
+  },
+  {
+    "title": "French Toast (Pain Perdu)",
+    "ingredients": "2 slices of bread,\n1 egg,\n1/4 cup milk,\n1 teaspoon sugar,\na pinch of cinnamon (optional),\nbutter for frying,\nsyrup or powdered sugar for serving.",
+    "instructions": "1. Beat egg, milk, sugar, and cinnamon together.\n2. Dip bread slices into the mixture, coating both sides.\n3. Melt butter in a pan over medium heat.\n4. Cook bread until golden brown on both sides.\n5. Serve warm with syrup or powdered sugar.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/FrenchToast.jpg"
+  },
   {
     "title": "Tamagoyaki (Japanese Rolled Omelette)",
     "ingredients": "3 eggs,\n1 tablespoon sugar,\n1 teaspoon soy sauce,\na pinch of salt,\noil for cooking.",
