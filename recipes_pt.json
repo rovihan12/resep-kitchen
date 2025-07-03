@@ -1,38 +1,62 @@
 [
   {
-    "title": "Shakshuka (Ovos Pochê do Oriente Médio)",
-    "ingredients": "2 ovos,\n1 colher de sopa de azeite de oliva,\n1/2 cebola picada,\n1 dente de alho picado,\n1/2 pimentão picado,\n2 tomates picados (ou 1/2 xícara de tomates enlatados),\nsal e pimenta a gosto,\numa pitada de páprica ou cominho (opcional),\nsalsinha fresca (opcional).",
-    "instructions": "1. Aqueça o azeite em uma frigideira em fogo médio.\n2. Refogue a cebola e o alho até ficarem macios.\n3. Adicione o pimentão e cozinhe até amolecer.\n4. Misture os tomates, a páprica/cominho, sal e pimenta. Cozinhe por 5-7 minutos.\n5. Faça cavidades no molho e quebre os ovos dentro.\n6. Tampe e cozinhe até os ovos estarem no ponto desejado.\n7. Decore com salsinha e sirva com pão.",
+    "title": "Massa Aglio e Olio (Itália)",
+    "ingredients": "200 gramas de espaguete ou outro tipo de massa,\n4-5 dentes de alho (fatiados finamente),\n4 colheres de sopa de azeite de oliva,\n1/2 colher de chá de flocos de pimenta seca (opcional),\nsal e pimenta do reino a gosto,\numa pequena quantidade de salsa fresca picada (opcional).",
+    "instructions": "1. Cozinhe a massa em água salgada até ficar al dente. Reserve cerca de 1/2 xícara da água do cozimento da massa.\n2. Enquanto a massa cozinha, aqueça o azeite em uma frigideira grande em fogo médio-baixo.\n3. Adicione as fatias de alho, refogue lentamente até ficarem perfumadas e ligeiramente douradas. Não queime.\n4. Adicione os flocos de pimenta seca (se usar), mexa brevemente.\n5. Adicione a massa escorrida à frigideira. Misture bem com o tempero.\n6. Adicione um pouco da água do cozimento da massa se estiver muito seco, mexa até que o molho cubra bem a massa.\n7. Tempere com sal e pimenta do reino. Misture bem.\n8. Sirva imediatamente com um pouco de salsa picada (se usar).",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/pasta_aglio_e_olio.jpg"
+  },
+  {
+    "title": "Dal Tadka (Índia)",
+    "ingredients": "1 xícara de lentilha amarela (moong dal ou toor dal),\n1 cebola média (finamente picada),\n1 tomate médio (picado),\n2 dentes de alho (picados),\n1 pedaço de gengibre de 2-3 cm (ralado ou finamente picado),\n1-2 pimentas verdes (opcional, cortadas ao meio),\n1/2 colher de chá de sementes de cominho,\n1/4 colher de chá de açafrão em pó,\nsal a gosto,\n2 colheres de sopa de óleo vegetal ou ghee (manteiga clarificada, certifique-se de que é halal),\n2-3 xícaras de água,\numa pitada de coentro fresco (para guarnecer, opcional).",
+    "instructions": "1. Lave as lentilhas completamente em água corrente até que a água esteja clara. Cozinhe as lentilhas com 2-3 xícaras de água e um pouco de açafrão em pó até ficarem macias e desfeitas. Reserve.\n2. Em uma frigideira separada, aqueça o óleo vegetal ou ghee em fogo médio.\n3. Adicione as sementes de cominho, cozinhe até ficarem perfumadas e estalarem.\n4. Adicione a cebola picada, refogue até ficar transparente e perfumada.\n5. Adicione o gengibre e o alho picados, refogue brevemente até ficarem perfumados.\n6. Adicione o tomate picado e as pimentas verdes (se usar), cozinhe até que os tomates estejam macios e desfeitos.\n7. Despeje este refogado nas lentilhas cozidas. Misture bem.\n8. Cozinhe novamente por 5-7 minutos para que o tempero seja totalmente absorvido. Se estiver muito espesso, você pode adicionar um pouco de água quente.\n9. Ajuste o tempero com sal. Sirva quente com arroz branco ou pão.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/dal_tadka.jpg"
+  },
+  {
+    "title": "Quesadillas de Queijo (México)",
+    "ingredients": "2 tortilhas de trigo médias,\n1 xícara de queijo ralado (cheddar, mussarela ou mistura, certifique-se de que o queijo é halal),\n1 colher de chá de óleo vegetal ou um pouco de manteiga.",
+    "instructions": "1. Aqueça uma frigideira plana ou antiaderente em fogo médio.\n2. Unte levemente a frigideira com um pouco de óleo ou manteiga.\n3. Coloque uma tortilha na frigideira.\n4. Polvilhe o queijo ralado uniformemente sobre toda a superfície da tortilha.\n5. Coloque a segunda tortilha sobre o queijo, ou dobre a primeira tortilha ao meio se estiver usando apenas uma.\n6. Cozinhe por 2-3 minutos de cada lado, ou até que o queijo derreta e a tortilha esteja dourada e crocante. Se dobrada, vire e cozinhe o outro lado.\n7. Retire da frigideira, corte em várias partes (por exemplo, triângulos).\n8. Sirva quente, opcionalmente com molho salsa ou guacamole.",
+    "imageUrl":"https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/quesadillas_keju.jpg"
+  },
+  {
+    "title": "Sopa de Tomate Simples (Europa)",
+    "ingredients": "500 gramas de tomates frescos (em cubos) ou 1 lata de tomates picados (aprox. 400g),\n1 cebola média (picada),\n2 dentes de alho (finamente picados),\n2 xícaras de caldo de legumes (certifique-se de que é halal e livre de produtos animais se quiser uma opção vegana),\n2 colheres de sopa de azeite de oliva,\n1 colher de chá de açúcar (para equilibrar a acidez do tomate),\nsal e pimenta do reino a gosto,\nfolhas de manjericão fresco para guarnecer (opcional).",
+    "instructions": "1. Aqueça o azeite em uma panela média em fogo médio.\n2. Adicione a cebola picada, refogue até ficar macia e translúcida, cerca de 5-7 minutos.\n3. Adicione o alho finamente picado, refogue brevemente até ficar perfumado (cerca de 1 minuto), não queime.\n4. Adicione os tomates em cubos (frescos ou enlatados) à panela. Misture bem.\n5. Despeje o caldo de legumes. Adicione o açúcar, sal e pimenta do reino.\n6. Leve para ferver, depois reduza o fogo e cozinhe em fogo brando por 15-20 minutos para que todos os sabores se misturem.\n7. Se quiser uma sopa mais cremosa, bata a sopa usando um liquidificador de imersão ou liquidificador comum até atingir a consistência desejada. Coe se não quiser sementes ou peles de tomate.\n8. Sirva a sopa de tomate quente com um pouco de folhas de manjericão fresco (se usar) ou pão torrado.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/quesadillas_keju.jpg"
+  },
+  {
+    "title": "Shakshuka (Ovos Escalfados do Oriente Médio)",
+    "ingredients": "2 ovos,\n1 colher de sopa de azeite de oliva,\n1/2 cebola picada,\n1 dente de alho picado,\n1/2 pimentão picado,\n2 tomates picados (ou 1/2 xícara de tomates enlatados),\nsal e pimenta a gosto,\numa pitada de páprica em pó ou cominho (opcional),\nsalsa fresca (opcional).",
+    "instructions": "1. Aqueça o azeite em uma frigideira em fogo médio.\n2. Refogue a cebola e o alho até ficarem macios.\n3. Adicione o pimentão, cozinhe até ficar macio.\n4. Adicione os tomates, páprica/cominho, sal e pimenta. Cozinhe por 5–7 minutos.\n5. Faça pequenas depressões e quebre os ovos nelas.\n6. Tampe e cozinhe até que os ovos estejam prontos a seu gosto.\n7. Polvilhe com salsa e sirva com pão.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Shakshuka.jpg"
   },
   {
-    "title": "Roti Telur (Pão Malaio com Ovo)",
-    "ingredients": "1 roti canai ou paratha simples (pode ser congelado),\n1 ovo,\n1 colher de sopa de cebola picada,\nsal e pimenta a gosto,\nóleo ou manteiga para fritar.",
-    "instructions": "1. Descongele o roti se estiver congelado.\n2. Bata o ovo com a cebola, sal e pimenta.\n3. Aqueça um pouco de óleo ou manteiga em uma frigideira.\n4. Despeje a mistura de ovos e imediatamente coloque o roti por cima.\n5. Cozinhe até o ovo firmar e vire para dourar o outro lado.\n6. Sirva quente com molho de pimenta ou curry.",
+    "title": "Pão com Ovo (Roti Canai com Ovo)",
+    "ingredients": "1 folha de pão roti canai ou paratha simples (pode ser congelado),\n1 ovo,\n1 colher de sopa de cebola picada,\nsal e pimenta a gosto,\nóleo ou manteiga para fritar.",
+    "instructions": "1. Descongele o pão se estiver congelado.\n2. Bata o ovo com a cebola, sal e pimenta.\n3. Aqueça um pouco de óleo/manteiga em uma frigideira.\n4. Despeje a mistura de ovo e imediatamente coloque o pão por cima.\n5. Cozinhe até o ovo firmar, depois vire para dourar o outro lado.\n6. Sirva quente com molho de pimenta ou curry.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Roti%20Telur.jpg"
   },
   {
-    "title": "Rabanada (Pain Perdu)",
-    "ingredients": "2 fatias de pão,\n1 ovo,\n1/4 xícara de leite,\n1 colher de chá de açúcar,\numa pitada de canela (opcional),\nmanteiga para fritar,\nxarope ou açúcar de confeiteiro para servir.",
-    "instructions": "1. Bata o ovo, o leite, o açúcar e a canela.\n2. Mergulhe as fatias de pão na mistura, cobrindo ambos os lados.\n3. Derreta manteiga em uma frigideira em fogo médio.\n4. Frite o pão até dourar dos dois lados.\n5. Sirva quente com xarope ou açúcar de confeiteiro.",
+    "title": "Torrada Doce (French Toast)",
+    "ingredients": "2 fatias de pão,\n1 ovo,\n1/4 xícara de leite,\n1 colher de chá de açúcar,\numa pitada de canela em pó (opcional),\nmanteiga para fritar,\nxarope ou açúcar em pó para servir.",
+    "instructions": "1. Bata o ovo, o leite, o açúcar e a canela.\n2. Mergulhe o pão na mistura, certificando-se de que ambos os lados estejam cobertos.\n3. Derreta a manteiga em uma frigideira em fogo médio.\n4. Frite o pão até ficar dourado dos dois lados.\n5. Sirva quente com xarope ou açúcar em pó.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/French%20Toast.jpg"
   },
   {
-    "title": "Tamagoyaki (Omelete Enrolado Japonês)",
+    "title": "Tamagoyaki (Omelete Enrolada Japonesa)",
     "ingredients": "3 ovos,\n1 colher de sopa de açúcar,\n1 colher de chá de molho de soja,\numa pitada de sal,\nóleo para cozinhar.",
-    "instructions": "1. Bata os ovos com o açúcar, o molho de soja e o sal até ficar homogêneo.\n2. Aqueça uma frigideira untada levemente em fogo médio.\n3. Despeje uma camada fina da mistura de ovos e cozinhe até firmar parcialmente.\n4. Enrole a omelete para um lado.\n5. Adicione mais mistura de ovos, levantando o rolo para deixar escorrer por baixo.\n6. Quando estiver meio cozido, enrole novamente.\n7. Repita até usar toda a mistura.\n8. Corte e sirva quente ou frio.",
+    "instructions": "1. Bata os ovos com açúcar, molho de soja e sal até ficarem bem combinados.\n2. Aqueça uma frigideira levemente untada com óleo em fogo médio.\n3. Despeje uma pequena quantidade da mistura de ovo e cozinhe até ficar semi-firme.\n4. Enrole o ovo para um lado.\n5. Adicione mais massa, levantando o rolo para que a nova massa flua por baixo.\n6. Quando estiver semi-firme, enrole novamente.\n7. Repita até que toda a massa seja usada.\n8. Corte e sirva quente ou frio.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Tamagoyaki.jpg"
   },
   {
     "title": "Arroz Frito Simples",
-    "ingredients": "2 pratos de arroz branco cozido,\n2 dentes de alho picados,\n1 ovo,\n2 colheres de sopa de molho de soja doce,\n1 colher de chá de molho de ostra (opcional),\nsal e pimenta a gosto,\n2 colheres de sopa de óleo para cozinhar.",
-    "instructions": "1. Aqueça o óleo e refogue o alho até liberar aroma.\n2. Adicione o ovo e mexa até cozinhar.\n3. Junte o arroz e misture bem.\n4. Adicione molho de soja, molho de ostra, sal e pimenta. Mexa até os sabores serem absorvidos.\n5. Sirva quente com seus acompanhamentos preferidos.",
+    "ingredients": "2 pratos de arroz branco cozido,\n2 dentes de alho picados,\n1 ovo,\n2 colheres de sopa de molho de soja doce,\n1 colher de chá de molho de ostra (opcional),\nsal e pimenta a gosto,\n2 colheres de sopa de óleo para refogar.",
+    "instructions": "1. Aqueça o óleo e refogue o alho até ficar perfumado.\n2. Adicione o ovo, mexa até cozinhar.\n3. Adicione o arroz e misture bem.\n4. Adicione o molho de soja doce, molho de ostra, sal e pimenta. Mexa até o tempero ser absorvido.\n5. Sirva quente com seus acompanhamentos favoritos.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
     "title": "Onigiri (Bolinho de Arroz Japonês)",
-    "ingredients": "2 xícaras de arroz cozido,\n1 colher de chá de sal,\n2 folhas de nori (cortadas no tamanho certo),\nrecheios (atum com maionese, salmão grelhado ou umeboshi).",
-    "instructions": "1. Misture o sal com o arroz ainda quente.\n2. Prepare os recheios.\n3. Coloque o arroz sobre um filme plástico, adicione o recheio e feche.\n4. Modele em forma triangular.\n5. Envolva com a folha de nori.\n6. Sirva.",
+    "ingredients": "2 xícaras de arroz cozido,\n1 colher de chá de sal,\n2 folhas de nori (cortadas no tamanho),\nrecheio (maionese de atum, salmão grelhado ou umeboshi).",
+    "instructions": "1. Misture o sal no arroz quente.\n2. Prepare o recheio.\n3. Coloque o arroz em plástico filme, adicione o recheio e enrole.\n4. Forme um triângulo.\n5. Enrole com nori.\n6. Sirva.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
