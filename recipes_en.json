@@ -1,38 +1,62 @@
 [
- {
+  {
+    "title": "Pasta Aglio e Olio (Italy)",
+    "ingredients": "200 grams spaghetti or other type of pasta,\n4-5 cloves garlic (thinly sliced),\n4 tablespoons olive oil,\n1/2 teaspoon dried chili flakes (optional),\nsalt and black pepper to taste,\na small amount of fresh chopped parsley (optional).",
+    "instructions": "1. Boil pasta in salted water until al dente. Reserve about 1/2 cup of pasta cooking water.\n2. While waiting for the pasta to cook, heat olive oil in a large pan over medium-low heat.\n3. Add sliced garlic, sauté slowly until fragrant and slightly golden. Do not burn.\n4. Add dried chili flakes (if using), stir briefly.\n5. Add drained pasta to the pan. Mix well with the seasoning.\n6. Add a little pasta cooking water if too dry, stir until the sauce coats the pasta well.\n7. Season with salt and black pepper. Stir well.\n8. Serve immediately with a sprinkle of chopped parsley (if using).",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/pasta_aglio_e_olio.jpg"
+  },
+  {
+    "title": "Dal Tadka (India)",
+    "ingredients": "1 cup yellow lentils (moong dal or toor dal),\n1 medium onion (finely chopped),\n1 medium tomato (chopped),\n2 cloves garlic (chopped),\n1 inch ginger (grated or finely chopped),\n1-2 green chilies (optional, split in half),\n1/2 teaspoon cumin seeds,\n1/4 teaspoon turmeric powder,\nsalt to taste,\n2 tablespoons vegetable oil or ghee (clarified butter, ensure it's halal),\n2-3 cups water,\na pinch of fresh cilantro (for garnish, optional).",
+    "instructions": "1. Rinse lentils thoroughly under running water until the water runs clear. Boil lentils with 2-3 cups of water and a little turmeric powder until soft and mashed. Set aside.\n2. In a separate pan, heat vegetable oil or ghee over medium heat.\n3. Add cumin seeds, cook until fragrant and crackling.\n4. Add chopped onion, sauté until transparent and fragrant.\n5. Add chopped ginger and garlic, sauté briefly until fragrant.\n6. Add chopped tomato and green chilies (if using), cook until tomatoes are soft and mashed.\n7. Pour this sautéed seasoning into the cooked lentils. Mix well.\n8. Cook again for 5-7 minutes for the seasoning to fully absorb. If too thick, you can add a little hot water.\n9. Adjust seasoning with salt. Serve hot with white rice or bread.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/dal_tadka.jpg"
+  },
+  {
+    "title": "Cheese Quesadillas (Mexico)",
+    "ingredients": "2 medium wheat tortillas,\n1 cup shredded cheese (cheddar, mozzarella, or mix, ensure cheese is halal),\n1 teaspoon vegetable oil or a little butter.",
+    "instructions": "1. Heat a flat pan or non-stick skillet over medium heat.\n2. Lightly grease the pan with a little oil or butter.\n3. Place one tortilla in the pan.\n4. Sprinkle shredded cheese evenly over the entire surface of the tortilla.\n5. Place the second tortilla on top of the cheese, or fold the first tortilla in half if using a single tortilla.\n6. Cook for 2-3 minutes per side, or until the cheese melts and the tortilla is golden brown and crispy. If folded, flip and cook the other side.\n7. Remove from the pan, cut into several pieces (e.g., triangles).\n8. Serve warm, optionally with salsa or guacamole.",
+    "imageUrl":"https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/quesadillas_keju.jpg"
+  },
+  {
+    "title": "Simple Tomato Soup (Europe)",
+    "ingredients": "500 grams fresh tomatoes (diced) or 1 can diced tomatoes (approx. 400g),\n1 medium onion (chopped),\n2 cloves garlic (finely chopped),\n2 cups vegetable broth (ensure halal and free of animal products if aiming for vegan),\n2 tablespoons olive oil,\n1 teaspoon sugar (to balance tomato acidity),\nsalt and black pepper to taste,\nfresh basil leaves for garnish (optional).",
+    "instructions": "1. Heat olive oil in a medium pot over medium heat.\n2. Add chopped onion, sauté until softened and translucent, about 5-7 minutes.\n3. Add finely chopped garlic, sauté briefly until fragrant (about 1 minute), do not burn.\n4. Add diced tomatoes (fresh or canned) to the pot. Stir well.\n5. Pour in vegetable broth. Add sugar, salt, and black pepper.\n6. Bring to a boil, then reduce heat and simmer gently for 15-20 minutes for all flavors to meld.\n7. If you want a smoother soup, blend the soup using an immersion blender or regular blender until desired consistency is reached. Strain if you don't want seeds or tomato skins.\n8. Serve hot tomato soup with a sprinkle of fresh basil leaves (if using) or toasted bread.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/quesadillas_keju.jpg"
+  },
+  {
     "title": "Shakshuka (Middle Eastern Poached Eggs)",
-    "ingredients": "2 eggs,\n1 tablespoon olive oil,\n1/2 onion chopped,\n1 garlic clove minced,\n1/2 bell pepper chopped,\n2 tomatoes chopped (or 1/2 cup canned tomatoes),\nsalt and pepper to taste,\na pinch of paprika or cumin (optional),\nfresh parsley (optional).",
-    "instructions": "1. Heat olive oil in a skillet over medium heat.\n2. Sauté onion and garlic until soft.\n3. Add bell pepper and cook until tender.\n4. Stir in tomatoes, paprika/cumin, salt, and pepper. Simmer for 5-7 minutes.\n5. Make small wells and crack eggs into them.\n6. Cover and cook until eggs are set to your liking.\n7. Garnish with parsley and serve with bread.",
+    "ingredients": "2 eggs,\n1 tablespoon olive oil,\n1/2 chopped onion,\n1 clove chopped garlic,\n1/2 chopped bell pepper,\n2 chopped tomatoes (or 1/2 cup canned tomatoes),\nsalt and pepper to taste,\na pinch of paprika powder or cumin (optional),\nfresh parsley (optional).",
+    "instructions": "1. Heat olive oil in a pan over medium heat.\n2. Sauté onion and garlic until soft.\n3. Add bell pepper, cook until tender.\n4. Add tomatoes, paprika/cumin, salt, and pepper. Cook for 5–7 minutes.\n5. Make small indentations and crack eggs into them.\n6. Cover and cook until eggs are done to your liking.\n7. Sprinkle with parsley and serve with bread.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Shakshuka.jpg"
   },
   {
-    "title": "Roti Telur (Malaysian Egg Flatbread)",
-    "ingredients": "1 roti canai or plain paratha (frozen ok),\n1 egg,\n1 tablespoon chopped onion,\nsalt and pepper to taste,\noil or butter for frying.",
-    "instructions": "1. Thaw roti if frozen.\n2. Beat egg with onion, salt, and pepper.\n3. Heat a little oil/butter in a pan.\n4. Pour egg mixture and immediately place roti over it.\n5. Cook until egg sets and flip to crisp the other side.\n6. Serve hot with chili sauce or curry.",
+    "title": "Egg Roti (Egg Paratha)",
+    "ingredients": "1 plain canai or paratha bread (frozen is fine),\n1 egg,\n1 tablespoon chopped onion,\nsalt and pepper to taste,\noil or butter for frying.",
+    "instructions": "1. Thaw bread if frozen.\n2. Beat egg with onion, salt, and pepper.\n3. Heat a little oil/butter in a pan.\n4. Pour egg mixture and immediately place bread on top.\n5. Cook until egg is set, then flip to crisp the other side.\n6. Serve warm with chili sauce or curry.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Roti%20Telur.jpg"
   },
   {
-    "title": "French Toast (Pain Perdu)",
-    "ingredients": "2 slices of bread,\n1 egg,\n1/4 cup milk,\n1 teaspoon sugar,\na pinch of cinnamon (optional),\nbutter for frying,\nsyrup or powdered sugar for serving.",
-    "instructions": "1. Beat egg, milk, sugar, and cinnamon together.\n2. Dip bread slices into the mixture, coating both sides.\n3. Melt butter in a pan over medium heat.\n4. Cook bread until golden brown on both sides.\n5. Serve warm with syrup or powdered sugar.",
+    "title": "Sweet Toasted Bread (French Toast)",
+    "ingredients": "2 slices bread,\n1 egg,\n1/4 cup milk,\n1 teaspoon sugar,\na pinch of cinnamon powder (optional),\nbutter for frying,\nsyrup or powdered sugar for serving.",
+    "instructions": "1. Beat egg, milk, sugar, and cinnamon.\n2. Dip bread into the mixture, ensuring both sides are coated.\n3. Melt butter in a pan over medium heat.\n4. Fry bread until golden brown on both sides.\n5. Serve warm with syrup or powdered sugar.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/French%20Toast.jpg"
   },
   {
     "title": "Tamagoyaki (Japanese Rolled Omelette)",
     "ingredients": "3 eggs,\n1 tablespoon sugar,\n1 teaspoon soy sauce,\na pinch of salt,\noil for cooking.",
-    "instructions": "1. Beat eggs with sugar, soy sauce, mirin, and salt until combined.\n2. Heat a lightly oiled pan over medium heat.\n3. Pour a thin layer of egg mixture and cook until half set.\n4. Roll the omelette to one side.\n5. Add more egg mixture, lifting the roll so the new layer flows underneath.\n6. When half cooked, roll again with the previous roll.\n7. Repeat until all egg mixture is used.\n8. Slice and serve hot or cold.",
+    "instructions": "1. Beat eggs with sugar, soy sauce, and salt until well combined.\n2. Heat a lightly oiled pan over medium heat.\n3. Pour a small amount of egg mixture and cook until semi-set.\n4. Roll the egg to one side.\n5. Add more batter, lifting the roll so the new batter flows underneath.\n6. When semi-set, roll again.\n7. Repeat until all batter is used.\n8. Cut and serve warm or cold.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Tamagoyaki.jpg"
   },
   {
     "title": "Simple Fried Rice",
-    "ingredients": "2 plates of cooked white rice,\n2 cloves garlic minced,\n1 egg,\n2 tablespoons sweet soy sauce,\n1 teaspoon oyster sauce (optional),\nsalt and pepper to taste,\n2 tablespoons cooking oil.",
-    "instructions": "1. Heat oil and sauté garlic until fragrant.\n2. Add egg and scramble until cooked.\n3. Add rice and mix well.\n4. Add soy sauce, oyster sauce, salt, and pepper. Stir until flavors are absorbed.\n5. Serve hot with your favorite toppings.",
+    "ingredients": "2 plates cooked white rice,\n2 cloves minced garlic,\n1 egg,\n2 tablespoons sweet soy sauce,\n1 teaspoon oyster sauce (optional),\nsalt and pepper to taste,\n2 tablespoons oil for sautéing.",
+    "instructions": "1. Heat oil and sauté garlic until fragrant.\n2. Add egg, scramble until cooked.\n3. Add rice and mix well.\n4. Add sweet soy sauce, oyster sauce, salt, and pepper. Stir until seasoning is absorbed.\n5. Serve warm with your favorite toppings.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
     "title": "Onigiri (Japanese Rice Ball)",
-    "ingredients": "2 cups cooked rice,\n1 teaspoon salt,\n2 sheets nori (cut to size),\nfillings (canned tuna + mayo, grilled salmon, or umeboshi).",
-    "instructions": "1. Mix salt into warm rice.\n2. Prepare fillings.\n3. Place rice on plastic wrap, add filling, then wrap.\n4. Shape into a triangle.\n5. Wrap with nori.\n6. Serve.",
+    "ingredients": "2 cups cooked rice,\n1 teaspoon salt,\n2 sheets nori (cut to size),\nfilling (tuna mayo, grilled salmon, or umeboshi).",
+    "instructions": "1. Mix salt into warm rice.\n2. Prepare filling.\n3. Take rice on a plastic wrap, add filling, then wrap.\n4. Form into a triangle.\n5. Wrap with nori.\n6. Serve.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
