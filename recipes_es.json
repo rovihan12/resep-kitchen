@@ -1,20 +1,62 @@
 [
   {
-    "title": "Tamagoyaki (Tortilla japonesa enrollada)",
-    "ingredients": "3 huevos,\n1 cucharada de azúcar,\n1 cucharadita de salsa de soja,\n1 nuna pizca de sal,\naceite para freír.",
-    "instructions": "1. Batir los huevos con azúcar, salsa de soja, mirin y sal hasta mezclar.\n2. Calentar una sartén ligeramente aceitada a fuego medio.\n3. Verter una capa fina de mezcla de huevo y cocinar hasta medio cuajar.\n4. Enrollar la tortilla hacia un lado.\n5. Agregar más mezcla de huevo, levantando el rollo para que la nueva capa fluya debajo.\n6. Cuando esté medio cocido, enrollar nuevamente con el rollo anterior.\n7. Repetir hasta acabar la mezcla.\n8. Cortar en piezas y servir caliente o fría.",
+    "title": "Pasta Aglio e Olio (Italia)",
+    "ingredients": "200 gramos de espagueti u otro tipo de pasta,\n4-5 dientes de ajo (finamente rebanados),\n4 cucharadas de aceite de oliva,\n1/2 cucharadita de hojuelas de chile seco (opcional),\nsal y pimienta negra al gusto,\nuna pequeña cantidad de perejil fresco picado (opcional).",
+    "instructions": "1. Hierve la pasta en agua con sal hasta que esté al dente. Reserva aproximadamente 1/2 taza del agua de cocción de la pasta.\n2. Mientras esperas que la pasta se cocine, calienta el aceite de oliva en una sartén grande a fuego medio-bajo.\n3. Agrega el ajo rebanado, sofríe lentamente hasta que esté fragante y ligeramente dorado. No lo quemes.\n4. Agrega las hojuelas de chile seco (si usas), revuelve brevemente.\n5. Agrega la pasta escurrida a la sartén. Mezcla bien con el condimento.\n6. Agrega un poco de agua de cocción de la pasta si está demasiado seca, revuelve hasta que la salsa cubra bien la pasta.\n7. Sazona con sal y pimienta negra. Revuelve bien.\n8. Sirve inmediatamente con un poco de perejil picado (si usas).",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/pasta_aglio_e_olio.jpg"
+  },
+  {
+    "title": "Dal Tadka (India)",
+    "ingredients": "1 taza de lentejas amarillas (moong dal o toor dal),\n1 cebolla mediana (finamente picada),\n1 tomate mediano (picado),\n2 dientes de ajo (picados),\n1 trozo de jengibre de 2-3 cm (rallado o finamente picado),\n1-2 chiles verdes (opcional, partidos por la mitad),\n1/2 cucharadita de semillas de comino,\n1/4 cucharadita de cúrcuma en polvo,\nsal al gusto,\n2 cucharadas de aceite vegetal o ghee (mantequilla clarificada, asegúrate de que sea halal),\n2-3 tazas de agua,\nuna pizca de cilantro fresco (para decorar, opcional).",
+    "instructions": "1. Enjuaga las lentejas a fondo bajo el agua corriente hasta que el agua salga clara. Hierve las lentejas con 2-3 tazas de agua y un poco de cúrcuma en polvo hasta que estén blandas y deshechas. Reserva.\n2. En una sartén separada, calienta el aceite vegetal o el ghee a fuego medio.\n3. Agrega las semillas de comino, cocina hasta que estén fragantes y chisporroteen.\n4. Agrega la cebolla picada, sofríe hasta que esté transparente y fragante.\n5. Agrega el jengibre y el ajo picados, sofríe brevemente hasta que estén fragantes.\n6. Agrega el tomate picado y los chiles verdes (si usas), cocina hasta que los tomates estén blandos y deshechos.\n7. Vierte este sofrito en las lentejas cocidas. Mezcla bien.\n8. Cocina nuevamente durante 5-7 minutos para que el condimento se absorba por completo. Si está demasiado espeso, puedes agregar un poco de agua caliente.\n9. Ajusta el condimento con sal. Sirve caliente con arroz blanco o pan.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/dal_tadka.jpg"
+  },
+  {
+    "title": "Quesadillas de Queso (México)",
+    "ingredients": "2 tortillas de trigo medianas,\n1 taza de queso rallado (cheddar, mozzarella o mezcla, asegúrate de que el queso sea halal),\n1 cucharadita de aceite vegetal o un poco de mantequilla.",
+    "instructions": "1. Calienta una sartén plana o una sartén antiadherente a fuego medio.\n2. Engrasa ligeramente la sartén con un poco de aceite o mantequilla.\n3. Coloca una tortilla en la sartén.\n4. Espolvorea el queso rallado uniformemente sobre toda la superficie de la tortilla.\n5. Coloca la segunda tortilla encima del queso, o dobla la primera tortilla por la mitad si usas una sola tortilla.\n6. Cocina durante 2-3 minutos por cada lado, o hasta que el queso se derrita y la tortilla esté dorada y crujiente. Si está doblada, dale la vuelta y cocina el otro lado.\n7. Retira de la sartén, corta en varias porciones (por ejemplo, triángulos).\n8. Sirve caliente, opcionalmente con salsa o guacamole.",
+    "imageUrl":"https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/quesadillas_keju.jpg"
+  },
+  {
+    "title": "Sopa de Tomate Simple (Europa)",
+    "ingredients": "500 gramos de tomates frescos (cortados en cubos) o 1 lata de tomates en cubos (aprox. 400g),\n1 cebolla mediana (picada),\n2 dientes de ajo (finamente picados),\n2 tazas de caldo de verduras (asegúrate de que sea halal y sin productos animales si buscas una opción vegana),\n2 cucharadas de aceite de oliva,\n1 cucharadita de azúcar (para equilibrar la acidez del tomate),\nsal y pimienta negra al gusto,\nhojas de albahaca fresca para decorar (opcional).",
+    "instructions": "1. Calienta el aceite de oliva en una olla mediana a fuego medio.\n2. Agrega la cebolla picada, sofríe hasta que esté suave y translúcida, aproximadamente 5-7 minutos.\n3. Agrega el ajo finamente picado, sofríe brevemente hasta que esté fragante (aproximadamente 1 minuto), no lo quemes.\n4. Agrega los tomates cortados en cubos (frescos o enlatados) a la olla. Mezcla bien.\n5. Vierte el caldo de verduras. Agrega el azúcar, la sal y la pimienta negra.\n6. Lleva a ebullición, luego reduce el fuego y cocina a fuego lento suavemente durante 15-20 minutos para que todos los sabores se mezclen.\n7. Si quieres una sopa más suave, licúa la sopa usando una batidora de inmersión o una licuadora normal hasta que alcance la consistencia deseada. Cuela si no quieres semillas o pieles de tomate.\n8. Sirve la sopa de tomate caliente con un poco de hojas de albahaca fresca (si usas) o pan tostado.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/quesadillas_keju.jpg"
+  },
+  {
+    "title": "Shakshuka (Huevos Estrellados al Estilo de Oriente Medio)",
+    "ingredients": "2 huevos,\n1 cucharada de aceite de oliva,\n1/2 cebolla picada,\n1 diente de ajo picado,\n1/2 pimiento picado,\n2 tomates picados (o 1/2 taza de tomates enlatados),\nsal y pimienta al gusto,\nuna pizca de pimentón en polvo o comino (opcional),\nperejil fresco (opcional).",
+    "instructions": "1. Calienta el aceite de oliva en una sartén a fuego medio.\n2. Sofríe la cebolla y el ajo hasta que estén blandos.\n3. Agrega el pimiento, cocina hasta que esté tierno.\n4. Agrega los tomates, pimentón/comino, sal y pimienta. Cocina durante 5 a 7 minutos.\n5. Haz pequeñas hendiduras y casca los huevos en ellas.\n6. Tapa y cocina hasta que los huevos estén cocidos a tu gusto.\n7. Espolvorea con perejil y sirve con pan.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Shakshuka.jpg"
+  },
+  {
+    "title": "Roti de Huevo (Roti Canai con Huevo)",
+    "ingredients": "1 hoja de pan roti canai o paratha simple (puede ser congelado),\n1 huevo,\n1 cucharada de cebolla picada,\nsal y pimienta al gusto,\naceite o mantequilla para freír.",
+    "instructions": "1. Descongela el pan si está congelado.\n2. Bate el huevo con la cebolla, la sal y la pimienta.\n3. Calienta un poco de aceite/mantequilla en una sartén.\n4. Vierte la mezcla de huevo e inmediatamente coloca el pan encima.\n5. Cocina hasta que el huevo esté cocido, luego voltea para dorar el otro lado.\n6. Sirve caliente con salsa de chile o curry.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Roti%20Telur.jpg"
+  },
+  {
+    "title": "Pan Tostado Dulce (Tostadas Francesas)",
+    "ingredients": "2 rebanadas de pan,\n1 huevo,\n1/4 taza de leche,\n1 cucharadita de azúcar,\nuna pizca de canela en polvo (opcional),\nmantequilla para freír,\nsirope o azúcar glas para servir.",
+    "instructions": "1. Bate el huevo, la leche, el azúcar y la canela.\n2. Sumerge el pan en la mezcla, asegurándote de que ambos lados estén cubiertos.\n3. Derrite la mantequilla en una sartén a fuego medio.\n4. Fríe el pan hasta que esté dorado por ambos lados.\n5. Sirve caliente con sirope o azúcar glas.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/French%20Toast.jpg"
+  },
+  {
+    "title": "Tamagoyaki (Tortilla Enrollada Japonesa)",
+    "ingredients": "3 huevos,\n1 cucharada de azúcar,\n1 cucharadita de salsa de soja,\nuna pizca de sal,\naceite para cocinar.",
+    "instructions": "1. Bate los huevos con el azúcar, la salsa de soja y la sal hasta que estén bien combinados.\n2. Calienta una sartén ligeramente engrasada a fuego medio.\n3. Vierte una pequeña cantidad de mezcla de huevo y cocina hasta que esté medio cuajada.\n4. Enrolla el huevo hacia un lado.\n5. Agrega más masa, levantando el rollo para que la nueva masa fluya por debajo.\n6. Cuando esté medio cuajada, vuelve a enrollar.\n7. Repite hasta que se acabe toda la masa.\n8. Corta y sirve caliente o frío.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/refs/heads/main/Tamagoyaki.jpg"
   },
   {
-    "title": "Arroz frito simple",
-    "ingredients": "2 platos de arroz blanco,\n2 dientes de ajo picados,\n1 huevo,\n2 cucharadas de salsa de soja dulce,\n1 cucharadita de salsa de ostras (opcional),\nsal y pimienta al gusto,\n2 cucharadas de aceite para cocinar.",
-    "instructions": "1. Calentar el aceite y saltear el ajo hasta que esté fragante.\n2. Añadir el huevo y revolver hasta cocido.\n3. Añadir el arroz y mezclar bien.\n4. Agregar salsa de soja, salsa de ostras, sal y pimienta. Revolver hasta que los sabores se integren.\n5. Servir caliente con tus acompañamientos favoritos.",
+    "title": "Arroz Frito Simple",
+    "ingredients": "2 platos de arroz blanco cocido,\n2 dientes de ajo picados,\n1 huevo,\n2 cucharadas de salsa de soja dulce,\n1 cucharadita de salsa de ostras (opcional),\nsal y pimienta al gusto,\n2 cucharadas de aceite para saltear.",
+    "instructions": "1. Calienta el aceite y sofríe el ajo hasta que esté fragante.\n2. Agrega el huevo, revuelve hasta que esté cocido.\n3. Agrega el arroz y mezcla bien.\n4. Agrega la salsa de soja dulce, la salsa de ostras, la sal y la pimienta. Revuelve hasta que el condimento se absorba.\n5. Sirve caliente con tus aderezos favoritos.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Nasi%20Goreng.jpg"
   },
   {
-    "title": "Onigiri (bola de arroz japonesa)",
-    "ingredients": "2 tazas de arroz cocido,\n1 cucharadita de sal,\n2 hojas de nori (cortadas),\nrellenos (atún enlatado + mayonesa, salmón a la parrilla o umeboshi).",
-    "instructions": "1. Mezclar la sal en el arroz caliente.\n2. Preparar los rellenos.\n3. Colocar el arroz en film plástico, añadir el relleno y envolver.\n4. Formar un triángulo.\n5. Envolver con nori.\n6. Servir.",
+    "title": "Onigiri (Bola de Arroz Japonesa)",
+    "ingredients": "2 tazas de arroz cocido,\n1 cucharadita de sal,\n2 hojas de nori (cortadas a medida),\nrelleno (atún con mayonesa, salmón a la parrilla o umeboshi).",
+    "instructions": "1. Mezcla la sal en el arroz tibio.\n2. Prepara el relleno.\n3. Toma arroz en una envoltura de plástico, agrega el relleno y luego envuelve.\n4. Forma un triángulo.\n5. Envuelve con nori.\n6. Sirve.",
     "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Onigiri.jpg"
   }
 ]
