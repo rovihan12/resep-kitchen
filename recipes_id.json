@@ -1,5 +1,29 @@
 [
   {
+    "title": "Pasta Aglio e Olio (Italia)",
+    "ingredients": "200 gram spaghetti atau jenis pasta lain,\n4-5 siung bawang putih (iris tipis),\n4 sendok makan minyak zaitun,\n1/2 sendok teh cabai kering flakes (opsional),\ngaram dan merica hitam secukupnya,\nsejumlah kecil peterseli segar cincang (opsional).",
+    "instructions": "1. Rebus pasta dalam air asin hingga al dente. Sisihkan sekitar 1/2 cangkir air rebusan pasta.\n2. Sambil menunggu pasta matang, panaskan minyak zaitun di wajan besar dengan api sedang-kecil.\n3. Masukkan irisan bawang putih, tumis perlahan hingga harum dan sedikit keemasan. Jangan sampai gosong.\n4. Tambahkan cabai kering flakes (jika pakai), aduk sebentar.\n5. Masukkan pasta yang sudah ditiriskan ke dalam wajan. Aduk rata dengan bumbu.\n6. Tambahkan sedikit air rebusan pasta jika terlalu kering, aduk hingga saus melapisi pasta dengan baik.\n7. Bumbui dengan garam dan merica hitam. Aduk rata.\n8. Sajikan segera dengan taburan peterseli cincang (jika pakai).",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Pasta%20Aglio%20e%20Olio.jpg"
+  },
+  {
+    "title": "Dal Tadka (India)",
+    "ingredients": "1 cangkir lentil kuning (moong dal atau toor dal),\n1 buah bawang bombay ukuran sedang (cincang halus),\n1 buah tomat ukuran sedang (cincang),\n2 siung bawang putih (cincang),\n1 ruas jari jahe (parut atau cincang halus),\n1-2 buah cabai hijau (opsional, belah dua),\n1/2 sendok teh biji jintan,\n1/4 sendok teh kunyit bubuk,\ngaram secukupnya,\n2 sendok makan minyak sayur atau ghee (minyak samin, pastikan halal),\n2-3 cangkir air,\nsejumput daun ketumbar segar (untuk taburan, opsional).",
+    "instructions": "1. Cuci bersih lentil di bawah air mengalir hingga airnya jernih. Rebus lentil dengan 2-3 cangkir air dan sedikit kunyit bubuk hingga empuk dan hancur. Sisihkan.\n2. Dalam wajan terpisah, panaskan minyak sayur atau ghee dengan api sedang.\n3. Masukkan biji jintan, masak hingga harum dan meletup-letup.\n4. Tambahkan bawang bombay cincang, tumis hingga transparan dan harum.\n5. Masukkan jahe dan bawang putih cincang, tumis hingga harum.\n6. Masukkan tomat cincang dan cabai hijau (jika pakai), masak hingga tomat lunak dan hancur.\n7. Tuang bumbu tumisan ini ke dalam lentil yang sudah direbus. Aduk rata.\n8. Masak kembali selama 5-7 menit agar bumbu meresap sempurna. Jika terlalu kental, bisa tambahkan sedikit air panas.\n9. Koreksi rasa dengan garam. Sajikan hangat dengan nasi putih atau roti.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Dal%20Tadka.jpg"
+  },
+  {
+    "title": "Quesadillas Keju (Meksiko)",
+    "ingredients": "2 lembar tortilla gandum (ukuran sedang),\n1 cangkir keju parut (cheddar, mozzarella, atau campuran, pastikan keju halal),\n1 sendok teh minyak sayur atau sedikit mentega.",
+    "instructions": "1. Panaskan wajan datar atau teflon anti lengket dengan api sedang.\n2. Olesi sedikit minyak atau mentega pada wajan.\n3. Letakkan satu lembar tortilla di wajan.\n4. Taburi keju parut secara merata di atas seluruh permukaan tortilla.\n5. Letakkan lembar tortilla kedua di atas keju, atau lipat tortilla pertama menjadi setengah lingkaran jika menggunakan satu lembar.\n6. Masak selama 2-3 menit per sisi, atau hingga keju meleleh dan tortilla berwarna keemasan dan renyah. Jika melipat, balik dan masak sisi satunya.\n7. Angkat dari wajan, potong menjadi beberapa bagian (misalnya segitiga).\n8. Sajikan selagi hangat, bisa dengan saus salsa atau guacamole jika suka.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Quesadillas%20Keju.jpg"
+  },
+  {
+    "title": "Sup Tomat Sederhana (Eropa)",
+    "ingredients": "500 gram tomat segar (potong dadu) atau 1 kaleng tomat potong dadu (sekitar 400g),\n1 buah bawang bombay ukuran sedang (cincang),\n2 siung bawang putih (cincang halus),\n2 cangkir kaldu sayuran (pastikan halal dan bebas bahan hewani jika ingin vegan),\n2 sendok makan minyak zaitun,\n1 sendok teh gula (untuk menyeimbangkan rasa asam tomat),\ngaram dan lada hitam secukupnya,\ndaun basil segar untuk hiasan (opsional).",
+    "instructions": "1. Panaskan minyak zaitun di panci sedang dengan api sedang.\n2. Masukkan bawang bombay cincang, tumis hingga layu dan transparan, sekitar 5-7 menit.\n3. Tambahkan bawang putih cincang, tumis sebentar hingga harum (sekitar 1 menit), jangan sampai gosong.\n4. Masukkan tomat potong dadu (segar atau kalengan) ke dalam panci. Aduk rata.\n5. Tuangkan kaldu sayuran. Tambahkan gula, garam, dan lada hitam.\n6. Didihkan, lalu kecilkan api dan biarkan mendidih perlahan selama 15-20 menit agar semua rasa menyatu.\n7. Jika ingin sup lebih halus, blender sup menggunakan blender tangan atau blender biasa hingga mencapai konsistensi yang diinginkan. Saring jika tidak ingin ada biji atau kulit tomat.\n8. Sajikan sup tomat hangat dengan taburan daun basil segar (jika pakai) atau roti panggang.",
+    "imageUrl": "https://raw.githubusercontent.com/rovihan12/resep-kitchen/main/Sup%20Tomat.jpg"
+  },
+  {
     "title": "Shakshuka (Telur Ceplok ala Timur Tengah)",
     "ingredients": "2 butir telur,\n1 sendok makan minyak zaitun,\n1/2 buah bawang bombai cincang,\n1 siung bawang putih cincang,\n1/2 buah paprika cincang,\n2 buah tomat cincang (atau 1/2 cangkir tomat kalengan),\ngaram dan lada secukupnya,\nsejumput paprika bubuk atau jinten (opsional),\ndaun peterseli segar (opsional).",
     "instructions": "1. Panaskan minyak zaitun di wajan dengan api sedang.\n2. Tumis bawang bombai dan bawang putih hingga lunak.\n3. Tambahkan paprika, masak hingga empuk.\n4. Masukkan tomat, paprika/jinten, garam, dan lada. Masak selama 5–7 menit.\n5. Buat cekungan kecil dan pecahkan telur ke dalamnya.\n6. Tutup dan masak hingga telur matang sesuai selera.\n7. Taburi daun peterseli dan sajikan dengan roti.",
